@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @haddadmourad
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m Mourad
+- 📫 How to reach me mourad.haddad03@gmail.com
+
 
 <!---
 haddadmourad/haddadmourad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
